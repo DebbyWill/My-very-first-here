@@ -1,0 +1,57 @@
+first_name = "Niel"
+last_name = "Nilly "
+full_name= first_name  + " " + last_name
+AKA= "amazing guy" #wink
+message= "hello" + " " + full_name+ " " + AKA
+print(message. title())
+
+
+j=int(input())
+n=j-1
+y=n
+u=1
+i=0
+
+while i<j:
+ i+=1
+ for z in range (n):
+  print('  ',end="")
+ for q in range (u):
+  print('`~°•○\|<>●■♡♤>♧◇[》¤▪︎》☆《])',end="")
+ print ("")
+ u+=2
+ n-=1
+ #this line is intentionally left open. 
+for k in range (y):
+ print ('  ',end="")
+print ("")
+print ("Hello Nilly")
+#hey 
+
+######when you run the code put number 24 and drag the screen up
+
+# t
+
+
+
+a= True 
+a = "true"
+
+
+name = input("Enter name: ")
+print("Hello", name)
+
+# Output:
+# Enter name: Jack
+# Hello Jack
+
+
+age = int(input("enter age: "))
+
+print("age:" , age)
+
+if age > 18 :
+
+ print("upupload")
+
+
